@@ -32,10 +32,10 @@
   ],
   "repository": {
     "type": "git",
-    "url": "https://github.com/atishpaul/env-check.git"
+    "url": "https://github.com/flenco-in/env-check.git"
   },
   "bugs": {
-    "url": "https://github.com/atishpaul/env-check/issues"
+    "url": "https://github.com/flenco-in/env-check/issues"
   },
-  "homepage": "https://github.com/atishpaul/env-check#readme"
+  "homepage": "https://github.com/flenco-in/env-check#readme"
 }
