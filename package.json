@@ -1,0 +1,41 @@
+{
+  "name": "@atishpaul/envcheck-cli",
+  "version": "1.0.0",
+  "description": "Environment config verifier - compare and validate .env files across environments",
+  "main": "src/index.js",
+  "bin": {
+    "envcheck": "./bin/cli.js",
+    "envcheck-cli": "./bin/cli.js"
+  },
+  "scripts": {
+    "test": "node test/test.js",
+    "demo": "node demo.js"
+  },
+  "keywords": [
+    "env",
+    "environment",
+    "config",
+    "validation",
+    "dotenv",
+    "env-check"
+  ],
+  "author": "Atish Paul <atish@flenco.in> (https://flenco.in)",
+  "license": "MIT",
+  "engines": {
+    "node": ">=14.0.0"
+  },
+  "files": [
+    "bin",
+    "src",
+    "README.md",
+    "LICENSE"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/atishpaul/env-check.git"
+  },
+  "bugs": {
+    "url": "https://github.com/atishpaul/env-check/issues"
+  },
+  "homepage": "https://github.com/atishpaul/env-check#readme"
+}
